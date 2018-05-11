@@ -15,5 +15,11 @@
         "statusBar.background": "#1A1A1A",
         "statusBar.noFolderBackground": "#0A0A0D",
         "statusBar.debuggingBackground": "#511f1f"
-    }
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top"
 }
