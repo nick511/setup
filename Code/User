@@ -11,15 +11,12 @@
     },
     "editor.fontSize": 12,
     "workbench.statusBar.feedback.visible": false,
-    "workbench.colorCustomizations": {
-        "statusBar.background": "#1A1A1A",
-        "statusBar.noFolderBackground": "#0A0A0D",
-        "statusBar.debuggingBackground": "#511f1f"
-    },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "editor.wordWrap": "on",
     "editor.formatOnPaste": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.colorTheme": "Monokai",
 }
