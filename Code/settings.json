@@ -1,0 +1,7 @@
+Python, Django
+{
+    "python.pythonPath": "/home/osboxes/Env/mentorx/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+}
